@@ -3,7 +3,7 @@ package app_version1;
 public class MainRunner {
     public static void main(String[] args) {
 
-        System.out.println("Application development start 'Version 1' 11.06.2023");
+        System.out.println("Application development start 'Version 1'");
 
         double resultMiles = convertKmsToMiles(10);
         System.out.println("Miles = " + resultMiles);
